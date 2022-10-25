@@ -82,6 +82,6 @@ docker-compose up
 
 ```
 ```
-5) Get all Doctor - http://localhost:8080/v1/doctors
+5) Get all Doctors - http://localhost:8080/v1/doctors
 
 ```
