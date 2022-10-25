@@ -1,7 +1,7 @@
 # Spring Boot JPA MySQL - Building Rest CRUD API example
 
 
-## Buid Spring Boot application
+## Build Spring Boot application
 ```
 mvn package Dmaven.test.skip=true
 ```
