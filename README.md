@@ -44,9 +44,9 @@ docker-compose up
 ```
 5) Get all Patients - http://localhost:8080/v1/patients
 
-```
-
+``
 ## Doctor End points and sample payloads
+
 ```
 1) Create Doctor - http://localhost:8080/v1/doctors
 
