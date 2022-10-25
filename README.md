@@ -43,3 +43,44 @@ docker-compose up
 
 ```
 5) Get all Patients - http://localhost:8080/v1/patients
+
+```
+
+## Doctor End points and sample payloads
+```
+1) Create Doctor - http://localhost:8080/v1/doctors
+
+{
+"firstName":"rahul",	
+"lastName":"ram",
+"department":"pediatric",
+"patients":[
+	{
+	 "firstName":"baby",	
+         "lastName":"akram"
+	}
+	
+	]
+	
+}
+```
+```
+2) Update Doctor - http://localhost:8080/v1/doctors/101
+
+{
+"firstName":"rahul",	
+"lastName":"kumar",
+"department":"ortho"
+}
+```
+```
+3) Delete Doctor - http://localhost:8080/v1/doctors/101
+
+```
+```
+4) Get a Doctor - http://localhost:8080/v1/doctors/101
+
+```
+5) Get all Doctor - http://localhost:8080/v1/doctors
+
+```
