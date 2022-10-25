@@ -81,6 +81,7 @@ docker-compose up
 4) Get a Doctor - http://localhost:8080/v1/doctors/101
 
 ```
+```
 5) Get all Doctor - http://localhost:8080/v1/doctors
 
 ```
